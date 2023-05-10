@@ -3,7 +3,7 @@ A platform for customers to create a profile, post tasks they need help with, an
 
 ## main page
 !["Screenshot of URLs page"](https://github.com/YuqinHu/SuperHandy/blob/master/client/sreenshot/main.png)
-!["Screenshot of URLs page"](https://github.com/YuqinHu/SuperHandy/blob/master/client/sreenshot/main1.png)
+!["Screenshot of URLs page"](https://github.com/YuqinHu/SuperHandy/blob/master/client/sreenshot/main2.png)
 
 ## login page
 !["Screenshot of URLs page"](https://github.com/YuqinHu/SuperHandy/blob/master/client/sreenshot/login.png)
